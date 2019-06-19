@@ -14,7 +14,7 @@
 
   -	I would have also added the feature of taking screenshots
 
-  -     Runner would have been replaced from JUnit to TestNg
+  -   Runner would have been replaced from JUnit to TestNg
 
   -	I would have also working on integrating with cluecumber plugin which would enrich the reporting of the cases
 
